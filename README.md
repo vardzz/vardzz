@@ -40,7 +40,7 @@ I am a Computer Science student and developer dedicated to building high-perform
 ### ◈ THE STACK
 
 **DEVELOPMENT ENVIRONMENT**
-`Antigravity IDE` / `Git` / `Docker`
+`Antigravity IDE` / `VS Code` /`Claude Code` /`Git` / `Docker`
 
 **ENGINEERING & DESIGN**
 * **Languages:** JavaScript (ES6+), TypeScript, Python.
