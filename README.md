@@ -1,22 +1,83 @@
-# 💫 About Me:
-# 01 — THE PROFILE<br>## JERICHO VARDE<br>### [ SOFTWARE ENGINEER • CLOUD ARCHITECT • UI/UX DESIGNER ]<br><br>---<br><br>> "Precision in logic, elegance in execution."<br><br>I am a Computer Science student and developer dedicated to building high-performance digital ecosystems. My work sits at the intersection of robust **Cloud Engineering** and sophisticated **User Experience**, ensuring that what is powerful is also beautiful.<br><br>---<br><br>### ◈ SPECIALIZATIONS<br><br>| PILLAR | FOCUS AREA |<br>| :--- | :--- |<br>| **Architectural Design** | Cloud Infrastructure, Scalable Systems, Dockerization |<br>| **Frontend Artistry** | React.js, Next.js, Tailwind CSS (Luxury/Minimalist UI) |<br>| **Intelligence** | Multi-Agent Orchestration, SLM Reasoning Optimization |<br>| **Creative Direction** | 3D Modeling (Blender), Game Mechanics, Brand Identity |<br><br>---<br><br>### ◈ SELECTED WORKS<br><br>**Dentara / 2026**<br>*An ecosystem connecting dentistry students with patients.*<br>`Next.js` • `Cloud-Native` • `Fintech Integration`<br><br>**Horizontal Intelligence / Thesis**<br>*Optimizing SLM reasoning via Role-Driven Multi-Agent Orchestration.*<br>`AI Research` • `Orchestration` • `Advanced Logic`<br><br>**Court Catcher / The Courtmasters**<br>*Streamlining sports facility management and accessibility.*<br>`Full-Stack` • `SaaS` • `UI/UX`<br><br>---<br><br>### ◈ THE STACK<br><br>**DEVELOPMENT ENVIRONMENT**<br>`Antigravity IDE` / `VS Code` /`Claude Code` /`Git` / `Docker`<br><br>**ENGINEERING & DESIGN**<br>* **Languages:** JavaScript (ES6+), TypeScript, Python.<br>* **Web Frameworks:** Next.js, React.js.<br>* **Styling:** Tailwind CSS (Custom Design Systems).<br>* **Visualization:** Blender (3D Asset Creation).<br><br>---<br><br>---<br><br>### ◈ CONNECT<br><br><p align="left"><br>  <a href="https://linkedin.com/in/vardz" target="_blank"><br>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>  </a><br>  <a href="https://vardz.vercel.app" target="_blank"><br>    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /><br>  </a><br>  <a href="mailto:Yvardejericho@gmail.com"><br>    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /><br>  </a><br></p><br><br>---<br><br>---<br>*Refining the digital landscape, one commit at a time.*<br>
+# 01 — THE PROFILE
+## JERICHO VARDE
+### [ SOFTWARE ENGINEER • CLOUD ARCHITECT • UI/UX DESIGNER ]
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Changeiscomingtoday) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vardzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vardzz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vardzz8) 
+> "Precision in logic, elegance in execution."
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vardzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vardzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vardzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a Computer Science student and developer dedicated to building high-performance digital ecosystems. My work sits at the intersection of robust **Cloud Engineering** and sophisticated **User Experience**, ensuring that what is powerful is also beautiful.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vardzz&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+### ◈ SPECIALIZATIONS
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vardzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| PILLAR | FOCUS AREA |
+| :--- | :--- |
+| **Architectural Design** | Cloud Infrastructure, Scalable Systems, Dockerization |
+| **Frontend Artistry** | React.js, Next.js, Tailwind CSS (Luxury/Minimalist UI) |
+| **Intelligence** | Multi-Agent Orchestration, SLM Reasoning Optimization |
+| **Creative Direction** | 3D Modeling (Blender), Game Mechanics, Brand Identity |
+
+---
+
+### ◈ SELECTED WORKS
+
+**Dentara / 2026**
+*An ecosystem connecting dentistry students with patients.*
+`Next.js` • `Cloud-Native` • `Fintech Integration`
+
+**Horizontal Intelligence / Thesis**
+*Optimizing SLM reasoning via Role-Driven Multi-Agent Orchestration.*
+`AI Research` • `Orchestration` • `Advanced Logic`
+
+---
+
+### ◈ THE STACK
+
+**DEVELOPMENT ENVIRONMENT**
+`Antigravity IDE` / `Claude Code` / `Docker` / `Git`
+
+**ENGINEERING & DESIGN**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,nextjs,react,supabase,prisma,sqlite&theme=dark" height="35" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,framer,canva,blender,postman,vercel,npm,github&theme=dark" height="35" />
+</p>
+
+---
+
+### ◈ PERFORMANCE METRICS
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vardzz&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardzz&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f" height="150" />
+</p>
+
+---
+
+### ◈ CONNECT
+
+<p align="left">
+  <a href="https://linkedin.com/in/vardzz" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/white" width="22" height="22" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:vardejericho@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/white" width="22" height="22" />
+  </a>&nbsp;&nbsp;
+  <a href="https://vardz.vercel.app" target="_blank">
+    <img src="https://cdn.simpleicons.org/google-chrome/white" width="22" height="22" />
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/Changeiscomingtoday" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/white" width="22" height="22" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/vardzz" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/white" width="22" height="22" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/vardzz_" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/white" width="22" height="22" />
+  </a>
+</p>
+
+---
+*Refining the digital landscape, one commit at a time.*
