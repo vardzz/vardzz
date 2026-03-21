@@ -56,28 +56,32 @@ I am a Computer Science student and developer dedicated to building high-perform
 
 ---
 
+---
+
 ### ◈ CONNECT
 
 <p align="left">
-  <a href="https://linkedin.com/in/vardz" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/blue" width="22" height="22" />
+  <a href="https://linkedin.com/in/vardzz" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:vardejericho@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/red" width="22" height="22" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="https://vardz.vercel.app" target="_blank">
-    <img src="file:///C:/Projects-Personal/vardz-portfolio/components/icon/logo.png/white" width="22" height="22" />
+    <img src="https://raw.githubusercontent.com/vardzz/vardzz/main/logo.png" width="28" height="28" alt="Portfolio" />
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/Changeiscomingtoday" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/blue" width="22" height="22" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" height="28" alt="Facebook" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/vardzz" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/orange" width="22" height="22" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/vardzz_" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/blue" width="22" height="22" />
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="28" height="28" alt="Discord" />
   </a>
 </p>
+
+---
 
 ---
 *Refining the digital landscape, one commit at a time.*
