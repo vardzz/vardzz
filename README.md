@@ -67,9 +67,6 @@ I am a Computer Science student and developer dedicated to building high-perform
   <a href="mailto:vardejericho@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Gmail" />
   </a>&nbsp;&nbsp;
-  <a href="https://vardz.vercel.app" target="_blank">
-    <img src="https://cdn.simpleicons.org/link/ADB1B8" width="30" height="30" alt="Portfolio" />
-  </a>&nbsp;&nbsp;
   <a href="https://facebook.com/Changeiscomingtoday" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" alt="Facebook" />
   </a>&nbsp;&nbsp;
