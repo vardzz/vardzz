@@ -43,17 +43,21 @@ I am a Computer Science student and developer dedicated to building high-perform
 
 ### ◈ SELECTED WORKS
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=16&color=90CAF9&vCenter=true&width=150&lines=DENTARA+/+2026&repeat=false&duration=1" />
-<br>
-*Connecting dentistry students with patients.*
-<br>
-`Next.js` • `Cloud-Native` • `Fintech`
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=16&color=00BCD4&vCenter=true&width=330&lines=HORIZONTAL+INTELLIGENCE+/+THESIS&repeat=false&duration=1" />
-<br>
-*Optimizing SLM via Multi-Agent Orchestration.*
-<br>
-`AI Research` • `Orchestration` • `Advanced Logic`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=16&color=90CAF9&center=true&vCenter=true&width=150&lines=DENTARA+/+2026&repeat=false&duration=1" />
+  <br>
+  <em>Connecting dentistry students with patients.</em>
+  <br>
+  <code>Next.js</code> • <code>Cloud-Native</code> • <code>Fintech</code>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=16&color=00BCD4&center=true&vCenter=true&width=330&lines=HORIZONTAL+INTELLIGENCE+/+THESIS&repeat=false&duration=1" />
+  <br>
+  <em>Optimizing SLM via Multi-Agent Orchestration.</em>
+  <br>
+  <code>AI Research</code> • <code>Orchestration</code> • <code>Advanced Logic</code>
+</p>
 
 ---
 
