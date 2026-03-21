@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=01+—+THE+PROFILE;JERICHO+VARDE;ENGINEER+•+ARCHITECT+•+DESIGNER" alt="Header" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=32&pause=1500&color=D4AF37&center=true&vCenter=true&width=600&lines=JERICHO+VARDE;SOFTWARE+ENGINEER;CLOUD+ARCHITECT;UI%2FUX+DESIGNER)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Innovating-00C853?style=for-the-badge&logo=github&logoColor=white" /> 
