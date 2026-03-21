@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=01+—+THE+PROFILE;JERICHO+VARDE;ENGINEER+•+ARCHITECT+•+DESIGNER" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=01+—+THE+PROFILE;JERICHO+VARDE;ENGINEER+•+ARCHITECT+•+DESIGNER" alt="Header" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Innovating-white?style=flat-square&logo=github" /> 
-  <img src="https://img.shields.io/badge/Location-Philippines-white?style=flat-square&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Status-Innovating-00C853?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Location-Philippines-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -19,10 +19,10 @@ I am a Computer Science student and developer dedicated to building high-perform
 ### ◈ CORE SPECIALIZATIONS
 
 <p align="center">
-  <b>ARCHITECTURE</b> • Cloud Infrastructure & Dockerization<br>
-  <b>ARTISTRY</b> • Next.js & Luxury Minimalist UI<br>
-  <b>INTELLIGENCE</b> • Multi-Agent SLM Orchestration<br>
-  <b>VISUALS</b> • 3D Blender Modeling & Game Mechanics
+  <span style="color:#D4AF37"><b>ARCHITECTURE</b></span> • Cloud Infrastructure & Dockerization<br>
+  <span style="color:#D4AF37"><b>ARTISTRY</b></span> • Next.js & Luxury Minimalist UI<br>
+  <span style="color:#D4AF37"><b>INTELLIGENCE</b></span> • Multi-Agent SLM Orchestration<br>
+  <span style="color:#D4AF37"><b>VISUALS</b></span> • 3D Blender Modeling & Game Mechanics
 </p>
 
 ---
@@ -63,19 +63,19 @@ I am a Computer Science student and developer dedicated to building high-perform
 ### ◈ CONNECT
 
 <a href="https://linkedin.com/in/vardzz" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
 </a>&nbsp;
 <a href="mailto:vardejericho@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
 </a>&nbsp;
 <a href="https://facebook.com/Changeiscomingtoday" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32" />
 </a>&nbsp;
 <a href="https://instagram.com/vardzz" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
 </a>&nbsp;
 <a href="https://discord.com/users/vardzz_" target="_blank">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="32" />
 </a>
 
 <br><br>
