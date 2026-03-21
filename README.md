@@ -9,25 +9,25 @@
 
 ---
 
-### <span style="color:#FFFFFF">◈ PHILOSOPHY</span>
+### ◈ PHILOSOPHY
 > *"Precision in logic, elegance in execution."*
 
 I am a Computer Science student and developer dedicated to building high-performance digital ecosystems. My work sits at the intersection of robust **Cloud Engineering** and sophisticated **User Experience**, ensuring that what is powerful is also beautiful.
 
 ---
 
-### <span style="color:#FFFFFF">◈ CORE SPECIALIZATIONS</span>
+### ◈ CORE SPECIALIZATIONS
 
 <p align="center">
-  <span style="color:#81D4FA"><b>ARCHITECTURE</b></span> • Cloud Infrastructure & Dockerization<br>
-  <span style="color:#CE93D8"><b>ARTISTRY</b></span> • Next.js & Luxury Minimalist UI<br>
-  <span style="color:#80CBC4"><b>INTELLIGENCE</b></span> • Multi-Agent SLM Orchestration<br>
-  <span style="color:#FFAB91"><b>VISUALS</b></span> • 3D Blender Modeling & Game Mechanics
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=15&color=81D4FA&vCenter=true&width=125&lines=ARCHITECTURE" /> • Cloud Infrastructure & Dockerization<br>
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=15&color=CE93D8&vCenter=true&width=85&lines=ARTISTRY" /> • Next.js & Luxury Minimalist UI<br>
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=15&color=80CBC4&vCenter=true&width=115&lines=INTELLIGENCE" /> • Multi-Agent SLM Orchestration<br>
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=15&color=FFAB91&vCenter=true&width=75&lines=VISUALS" /> • 3D Blender Modeling & Game Mechanics
 </p>
 
 ---
 
-### <span style="color:#FFFFFF">◈ THE ARSENAL</span>
+### ◈ THE ARSENAL
 
 **LOGIC & SYSTEMS**
 <br>
@@ -41,19 +41,23 @@ I am a Computer Science student and developer dedicated to building high-perform
 
 ---
 
-### <span style="color:#FFFFFF">◈ SELECTED WORKS</span>
+### ◈ SELECTED WORKS
 
-<span style="color:#90CAF9"><b>DENTARA / 2026</b></span>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=16&color=90CAF9&vCenter=true&width=150&lines=DENTARA+/+2026" />
+<br>
 *Connecting dentistry students with patients.*
+<br>
 `Next.js` • `Cloud-Native` • `Fintech`
 <br><br>
-<span style="color:#00BCD4"><b>HORIZONTAL INTELLIGENCE / THESIS</b></span>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=16&color=00BCD4&vCenter=true&width=330&lines=HORIZONTAL+INTELLIGENCE+/+THESIS" />
+<br>
 *Optimizing SLM via Multi-Agent Orchestration.*
+<br>
 `AI Research` • `Orchestration` • `Advanced Logic`
 
 ---
 
-### <span style="color:#FFFFFF">◈ ANALYTICS</span>
+### ◈ ANALYTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vardzz&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" height="165" />
@@ -62,7 +66,7 @@ I am a Computer Science student and developer dedicated to building high-perform
 
 ---
 
-### <span style="color:#FFFFFF">◈ CONNECT</span>
+### ◈ CONNECT
 
 <a href="https://linkedin.com/in/vardzz" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
