@@ -62,7 +62,7 @@ I am a Computer Science student and developer dedicated to building high-perform
 
 <p align="left">
   <a href="https://linkedin.com/in/vardzz" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:vardejericho@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Gmail" />
