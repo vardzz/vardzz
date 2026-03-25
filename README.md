@@ -29,15 +29,19 @@ I am a Computer Science student and developer dedicated to building high-perform
 
 ### ◈ THE ARSENAL
 
-**LOGIC & SYSTEMS**
+**FRONTEND & CORE SCRIPTING**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,nextjs,react,supabase,prisma,sqlite&theme=dark" height="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" height="40" />
+<br><br>
 
+**BACKEND & DATA ARCHITECTURE**
 <br>
+<img src="https://skillicons.dev/icons?i=java,py,php,laravel,nodejs,postgres,supabase,prisma&theme=dark" height="40" />
+<br><br>
 
-**DESIGN & TOOLS**
+**CLOUD, TOOLS & DEPLOYMENT**
 <br>
-<img src="https://skillicons.dev/icons?i=figma,blender,postman,vercel,npm,github&theme=dark" height="40" />
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,figma,vercel,vscode,postman&theme=dark" height="40" />
 
 ---
 
