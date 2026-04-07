@@ -1,5 +1,14 @@
 <div align="center">
 
+██╗   ██╗  █████╗  ██████╗  ██████╗  ███████╗
+██║   ██║ ██╔══██╗ ██╔══██╗ ██╔══██╗ ╚══███╔╝
+██║   ██║ ███████║ ██████╔╝ ██║  ██║   ███╔╝ 
+╚██╗ ██╔╝ ██╔══██║ ██╔══██╗ ██║  ██║  ███╔╝  
+ ╚████╔╝  ██║  ██║ ██║  ██║ ██████╔╝ ███████╗
+  ╚═══╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚══════╝
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=32&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=JERICHO+VARDE;SOFTWARE+ENGINEER;CLOUD+ARCHITECT;UI%2FUX+DESIGNER)](https://git.io/typing-svg)
 
 <p align="center">
