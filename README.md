@@ -15,6 +15,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=32&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=JERICHO+VARDE;SOFTWARE+ENGINEER;CLOUD+ARCHITECT;UI%2FUX+DESIGNER)](https://git.io/typing-svg)
 
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Status-Innovating-00C853?style=for-the-badge&logo=github&logoColor=white" /> 
+
+  <img src="https://img.shields.io/badge/Location-Philippines-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</p>
+
 ---
 
 ### ◈ PHILOSOPHY
