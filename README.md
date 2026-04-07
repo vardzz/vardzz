@@ -1,17 +1,12 @@
 <div align="center">
 
+```text
 ██╗   ██╗  █████╗  ██████╗  ██████╗  ███████╗
 ██║   ██║ ██╔══██╗ ██╔══██╗ ██╔══██╗ ╚══███╔╝
 ██║   ██║ ███████║ ██████╔╝ ██║  ██║   ███╔╝ 
 ╚██╗ ██╔╝ ██╔══██║ ██╔══██╗ ██║  ██║  ███╔╝  
  ╚████╔╝  ██║  ██║ ██║  ██║ ██████╔╝ ███████╗
   ╚═══╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚══════╝
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Innovating-00C853?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Philippines-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
 
 <div align="center">
 
