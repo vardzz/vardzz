@@ -28,7 +28,7 @@
 ### ◈ PHILOSOPHY
 > *"Precision in logic, elegance in execution."*
 
-I am a Computer Science student and developer dedicated to building high-performance digital ecosystems. My work sits at the intersection of robust **Cloud Engineering** and sophisticated **User Experience**, ensuring that what is powerful is also beautiful.
+I am a Computer Science student and developer dedicated to building high-performance digital ecosystems. My work sits at the intersection of robust **Cloud Engineering**, sophisticated **User Experience** and **Machine Learning**, ensuring that what is powerful is also beautiful.
 
 ---
 
