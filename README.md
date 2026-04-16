@@ -84,8 +84,8 @@ I am a Computer Science student and developer dedicated to building high-perform
 ### ◈ ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardzz&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardzz&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vardzz&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardzz&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&card_width=320" height="165" />
 </p>
 
 ---
