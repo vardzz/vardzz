@@ -68,7 +68,7 @@ I am a Computer Science student and developer dedicated to building high-perform
   <br>
   <em>Connecting dentistry students with patients.</em>
   <br>
-  <code>Next.js</code> • <code>Cloud-Native</code> • <code>Fintech</code>
+  <code>Next.js</code> • <code> Typescript </code> • <code> Cloud-Native</code> • <code>Fintech</code>
 </p>
 
 <p align="center">
