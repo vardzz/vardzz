@@ -109,6 +109,6 @@ I am a Computer Science student and developer dedicated to building high-perform
 
 <br><br>
 
-*Refining the digital landscape, one commit at a time.*
+"The best error message is the one that never shows up." - Thomas Fuchs
 
 </div>
