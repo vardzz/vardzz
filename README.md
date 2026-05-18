@@ -9,7 +9,7 @@
      ╚═══╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=900&size=50&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=JERICHO+VARDE;SOFTWARE+ENGINEER;UI%2FUX+DESIGNER;CLOUD+ENGINEER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=900&size=50&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEER;UI%2FUX+DESIGNER;CLOUD+ENGINEER)](https://git.io/typing-svg)
 
 ` ──── ❖ ──── `
 
