@@ -28,9 +28,8 @@ Future Cloud Engineer and developer working at the intersection of modern web ar
 
 ### ᴍᴇᴛʀɪᴄs
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardzz&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&sideNums=ffffff&sideLabels=aaaaaa&ring=ffffff&fire=ffffff" height="200" />
-</p>
+![](https://streak-stats.demolab.com/?user=vardzz&theme=aura&hide_border=false)<br/>
+
 
 ` ─── ❖ ─── `
 
