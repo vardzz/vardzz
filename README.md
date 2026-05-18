@@ -9,7 +9,7 @@
      ╚═══╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Satoshi&weight=700&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=JERICHO+VARDE;SOFTWARE+ENGINEER;UI%2FUX+DESIGNER;CLOUD+ENGINEER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Satoshi&weight=1000&size=50pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=JERICHO+VARDE;SOFTWARE+ENGINEER;UI%2FUX+DESIGNER;CLOUD+ENGINEER)](https://git.io/typing-svg)
 
 ` ──── ❖ ──── `
 
@@ -42,6 +42,4 @@ Future Cloud Engineer and developer working at the intersection of modern web ar
 
 <br>
 
-[![](https://komarev.com/ghpvc/?username=vardzz&icon=3&color=1)](https://visitcount.itsvg.in)
-
-</div>
+</div>\
