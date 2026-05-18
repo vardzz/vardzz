@@ -9,29 +9,29 @@
      ╚═══╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚══════╝
 ```
 
----
+`────────────────────────────────────────────────────────────────── ❖ ───────────────────────────────────────────────────────────────── `
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Satoshi&weight=700&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=JERICHO+VARDE;SOFTWARE+ENGINEER;UI%2FUX+DESIGNER;CLOUD+ENGINEER)](https://git.io/typing-svg)
 
-` ─── ❖ ─── `
+`────────────────────────────────────────────────────────────────── ❖ ───────────────────────────────────────────────────────────────── `
 
 ### ᴀʙᴏᴜᴛ ᴍᴇ
 Future Cloud Engineer and developer working at the intersection of modern web architecture and automated intelligence. Dedicated to writing optimized code, designing premium user experiences, and deploying robust cloud infrastructures that run seamlessly behind the scenes.
 
-` ─── ❖ ─── `
+`────────────────────────────────────────────────────────────────── ❖ ───────────────────────────────────────────────────────────────── `
 
 ### ᴛʜᴇ ᴀʀsᴇɴᴀʟ
 
 <img src="https://skillicons.dev/icons?i=css,tailwind,java,py,js,ts,bash,php,vercel,aws,gcp,azure,nextjs,nodejs,npm,laravel,supabase,prisma,mysql,postgres,dynamodb,figma,blender,github,git&perline=13&theme=dark" height="150" />
 
-` ─── ❖ ─── `
+`────────────────────────────────────────────────────────────────── ❖ ───────────────────────────────────────────────────────────────── `
 
 ### ᴍᴇᴛʀɪᴄs
 
 ![](https://streak-stats.demolab.com/?user=vardzz&theme=aura&hide_border=false)<br/>
 
 
-` ─── ❖ ─── `
+`────────────────────────────────────────────────────────────────── ❖ ───────────────────────────────────────────────────────────────── `
 
 ### ᴄᴏɴɴᴇᴄᴛ
 
