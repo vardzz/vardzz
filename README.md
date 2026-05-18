@@ -22,7 +22,7 @@ Future Cloud Engineer and developer working at the intersection of modern web ar
 
 ### ᴛʜᴇ ᴀʀsᴇɴᴀʟ
 
-<img src="https://skillicons.dev/icons?i=css,tailwind,java,py,js,ts,bash,php,vercel,aws,gcp,azure,nextjs,nodejs,npm,laravel,supabase,prisma,mysql,postgres,dynamodb,figma,blender,github,git&perline=13&theme=dark" height="38" />
+<img src="https://skillicons.dev/icons?i=css,tailwind,java,py,js,ts,bash,php,vercel,aws,gcp,azure,nextjs,nodejs,npm,laravel,supabase,prisma,mysql,postgres,dynamodb,figma,blender,github,git&perline=13&theme=dark" height="150" />
 
 ` ─── ❖ ─── `
 
