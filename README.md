@@ -38,8 +38,9 @@ Future Cloud Engineer and developer working at the intersection of modern web ar
 
 <br>
 
-> *"I have no special talent. I am only passionately curious."* > — **Albert Einstein**
+> *"I have no special talent. I am only passionately curious."* >
+>                                           — **Albert Einstein**
 
 <br>
 
-</div>\
+</div>
