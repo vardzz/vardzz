@@ -42,6 +42,6 @@ Future Cloud Engineer and developer working at the intersection of modern web ar
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vardzz&label=VIEWS&style=flat-square&color=white&labelColor=111111)
+[![](https://komarev.com/ghpvc/?username=vardzz&icon=3&color=1)](https://visitcount.itsvg.in)
 
 </div>
