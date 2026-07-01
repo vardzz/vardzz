@@ -14,7 +14,7 @@
 ` ──── ❖ ──── `
 
 ### ᴀʙᴏᴜᴛ ᴍᴇ
-Future Cloud Engineer and developer working at the intersection of modern web architecture and automated intelligence. Dedicated to writing optimized code, designing premium user experiences, and deploying robust cloud infrastructures that run seamlessly behind the scenes.
+Aspriring Cloud Engineer and developer working at the intersection of modern web architecture and automated intelligence. Dedicated to writing optimized code, designing premium user experiences, and deploying robust cloud infrastructures that run seamlessly behind the scenes.
 
 ` ──── ❖ ──── `
 
