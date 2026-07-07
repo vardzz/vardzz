@@ -28,6 +28,7 @@ Aspiring Cloud Engineer and developer working at the intersection of modern web 
 
 ![](https://streak-stats.demolab.com/?user=vardzz&theme=aura&hide_border=false)<br/>
 
+[![GitHub Streak Stats](https://herokuapp.com)](https://github.com/vardzz/github-readme-streak-stats)
 
 ` ──── ❖ ──── `
 
