@@ -20,7 +20,7 @@ Aspiring Cloud Engineer and developer working at the intersection of modern web 
 
 ### ᴛʜᴇ ᴀʀsᴇɴᴀʟ
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,java,py,js,ts,dart,flutter,zod,bash,php,vercel,aws,gcp,azure,nextjs,nodejs,npm,laravel,supabase,prisma,mysql,postgres,dynamodb,docker,react,postman,figma,blender,github,git&perline=16&theme=dark" height="150" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,java,py,js,ts,dart,flutter,latex,bash,php,vercel,aws,gcp,azure,nextjs,nodejs,npm,laravel,supabase,prisma,mysql,postgres,dynamodb,docker,react,postman,figma,blender,github,git&perline=16&theme=dark" height="150" />
 
 ` ──── ❖ ──── `
 
