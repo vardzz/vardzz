@@ -1,7 +1,7 @@
 ```
                          }]p@#X)cOc1|l                                ●  ●  ●   vardz@dev — zsh
                      ]~tw$@@@@@@@@$**Ot!                              ──────────────────────────────────────────
-             .      CB@@@@@@@@@@@@@@@@hrI   ."                        $ whoami
+             .      CB@@@@@@@@@@@@@@@@hrI   ."                        + $ whoami
               .    <@@@@@@@@@@@@@@@@@@kCvxI  ""     ....              vardz — full-stack dev & cloud engineer
           ......   h@@cJX(   ^c*BB*hf        ^"    ...... .          
           ..''.'@  @@@@@@@@X:   +1:         """"  ''.......           $ cat about.txt
