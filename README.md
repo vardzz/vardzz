@@ -1,31 +1,31 @@
 ```
-                         }]p@#X)cOc1|l                            
-                     ]~tw$@@@@@@@@$**Ot!                          
-             .      CB@@@@@@@@@@@@@@@@hrI   ."                    
-              .    <@@@@@@@@@@@@@@@@@@kCvxI  ""     ....              ●  ●  ●   vardz@dev — zsh
-          ......   h@@cJX(   ^c*BB*hf        ^"    ...... .           ──────────────────────────────────────────
-          ..''.'@  @@@@@@@@X:   +1:         """"  ''.......           $ whoami
-         .''''''I@Oc@@#!       {$p            "  "''''.......         vardz — frontend dev & ux designer
-        ..''''''Y@/@@@@@BbQi 1@@@@p'`f{      '""  "'''''.....         
-       ....'''''BJC@@@@@@@@@@@@@@@M,!jdM*hbz1+""   `''''''...         $ cat about.txt
-        ..''''''@@@@@@@@@@@@@@@@@@@j ^b$$$#YZi""  "''''''.....        Human-centered UI, motion design
-       ....'''''x@@#@@@@@@@@pW@@@@b~{;'(ft};.""" ^"``'''''....        Studying BSIT @ Pamantasan ng Cabuyao
+                         }]p@#X)cOc1|l                                ●  ●  ●   vardz@dev — zsh
+                     ]~tw$@@@@@@@@$**Ot!                              ──────────────────────────────────────────
+             .      CB@@@@@@@@@@@@@@@@hrI   ."                        $ whoami
+              .    <@@@@@@@@@@@@@@@@@@kCvxI  ""     ....              vardz — frontend dev & ux designe
+          ......   h@@cJX(   ^c*BB*hf        ^"    ...... .          
+          ..''.'@  @@@@@@@@X:   +1:         """"  ''.......           $ cat about.txt
+         .''''''I@Oc@@#!       {$p            "  "''''.......         Human-centered UI, motion design
+        ..''''''Y@/@@@@@BbQi 1@@@@p'`f{      '""  "'''''.....         Studying BSIT @ Pamantasan ng Cabuyao
+       ....'''''BJC@@@@@@@@@@@@@@@M,!jdM*hbz1+""   `''''''...         
+        ..''''''@@@@@@@@@@@@@@@@@@@j ^b$$$#YZi""  "''''''.....        $ ls building/
+       ....'''''x@@#@@@@@@@@pW@@@@b~{;'(ft};.""" ^"``'''''....        HorizonAI/   Gabay-Sr/   Prio/
       . .'''''''"@@@@@@@@@@@@@I        jCv+ """"."````'''''....       
-      ..'''''''''''"B$@@@@@@@@@@@M*,   `}"  """"^^````'''''...        $ ls building/
-   . ...'''''''''``"a@@@@@@@@@@@@@$ji      `"""^^^^^``'''''...        HorizonAI/   Gabay-Sr/   Prio/
-      ...'''''''````,M@@@@@C   Cv         ^""""^^`^```'''''...        
-       ....''''''````"0*Mho#@@@a0n{       `""^^^^^````'''.....        $ cat stack.txt
-        ....'''''````^m[rckoM*mi           '"^^^^`````''.....         Frontend   React, Next.js, Tailwind
-       .....''''''''``*#]I/w#B@@@m0x!      ""`^^^````''.....          Mobile     Flutter, Dart
-       ...''''''''''`"@@$YI^i]{!           ""`````''''''...           Backend    Java, Firebase
-      ....'''''''''` @@@@@*CtI             """ ``''''''.....          Also       Motion design, agentic coding
-       ...''''''''`  @@@@@@MdQX]      '    " "  '''''......           
-      .....'''''.   @@@@@@@@*0r]}            -"   ''....              $ cat contact.txt
-       ...''.       @@@@@@@@@*O1            x["        .              Email      your.email@example.com
-     ...'           @@@@@@@@@@@bv-        x@t(             .          LinkedIn   /in/your-linkedin
-  ..'               @@@@@@@$@Bmcnj~. .:  @@#/:                        GitHub     @your-github-username
+      ..'''''''''''"B$@@@@@@@@@@@M*,   `}"  """"^^````'''''...        $ cat stack.txt
+   . ...'''''''''``"a@@@@@@@@@@@@@$ji      `"""^^^^^``'''''...        Frontend   React, Next.js, Tailwind
+      ...'''''''````,M@@@@@C   Cv         ^""""^^`^```'''''...        Mobile     Flutter, Dart
+       ....''''''````"0*Mho#@@@a0n{       `""^^^^^````'''.....        Backend    Java, Firebase
+        ....'''''````^m[rckoM*mi           '"^^^^`````''.....         Also       Motion design, agentic coding
+       .....''''''''``*#]I/w#B@@@m0x!      ""`^^^````''.....          
+       ...''''''''''`"@@$YI^i]{!           ""`````''''''...           $ cat contact.txt
+      ....'''''''''` @@@@@*CtI             """ ``''''''.....          Email      your.email@example.com
+       ...''''''''`  @@@@@@MdQX]      '    " "  '''''......           LinkedIn   /in/your-linkedin
+      .....'''''.   @@@@@@@@*0r]}            -"   ''....              GitHub     @your-github-username
+       ...''.       @@@@@@@@@*O1            x["        .              
+     ...'           @@@@@@@@@@@bv-        x@t(             .          $ echo "thanks for stopping by"
+  ..'               @@@@@@@$@Bmcnj~. .:  @@#/:                        thanks for stopping by
                      @@@@@@@C#hZcj1[)(;t@@@C]                         
-                     @@@@@@@@Xm0XcnzpY@@@@@c0t'                       $ echo "thanks for stopping by"
-                     @@@@@!  @@*B@@@@@@ "@@p@Q                        thanks for stopping by
+                     @@@@@@@@Xm0XcnzpY@@@@@c0t'                       $ _
+                                          
                                  
 ```
