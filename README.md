@@ -3,7 +3,7 @@
                      ]~tw$@@@@@@@@$**Ot!                              ──────────────────────────────────────────
              .      CB@@@@@@@@@@@@@@@@hrI   ."                        + $ whoami
               .    <@@@@@@@@@@@@@@@@@@kCvxI  ""     ....              vardz — full-stack dev & cloud engineer
-          ......   h@@cJX(   ^c*BB*hf        ^"    ...... .           ```diff
+          ......   h@@cJX(   ^c*BB*hf        ^"    ...... .           
           ..''.'@  @@@@@@@@X:   +1:         """"  ''.......           + $ cat about.txt
          .''''''I@Oc@@#!       {$p            "  "''''.......         Human-centered UI, motion design
         ..''''''Y@/@@@@@BbQi 1@@@@p'`f{      '""  "'''''.....         Studying BSCS @ University of Cabuyao
@@ -22,6 +22,5 @@
        ...''''''''`  @@@@@@MdQX]      '    " "  '''''......           $ echo "thanks for stopping by"
       .....'''''.   @@@@@@@@*0r]}            -"   ''....              thanks for stopping by
        ...''.       @@@@@@@@@*O1            x["        .              
-     ...'           @@@@@@@@@@@bv-        x@t(             .          $ _
-                                                                      ```                          
+     ...'           @@@@@@@@@@@bv-        x@t(             .          $ _                      
 ```
