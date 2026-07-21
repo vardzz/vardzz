@@ -1,5 +1,5 @@
 ```                                                           
-                         }]p@#X)cOc1|l                                ●  ●  ●   vardz@dev — zsh
+                         }]p@#X)cOc1|l                                \color{#f8f8f2}{●  ●  ●   vardz@dev — zsh}} \\
                      ]~tw$@@@@@@@@$**Ot!                              ──────────────────────────────────────────
              .      CB@@@@@@@@@@@@@@@@hrI   ."                        + $ whoami
               .    <@@@@@@@@@@@@@@@@@@kCvxI  ""     ....              vardz — full-stack dev & cloud engineer
