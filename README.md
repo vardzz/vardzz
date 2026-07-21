@@ -27,8 +27,7 @@
      ...'           @@@@@@@@@@@bv-        x@t(             .         Contact --------------------------------
   ..'               @@@@@@@$@Bmcnj~. .:  @@#/:                       Email: .............. your.email@example.com
                      @@@@@@@C#hZcj1[)(;t@@@C]                        LinkedIn: ........... /in/your-linkedin
-                     @@@@@@@@Xm0XcnzpY@@@@@c0t'                      GitHub: ............. @your-github-username
-                     @@@@@!  @@*B@@@@@@ "@@p@Q                    
+                     @@@@@@@@Xm0XcnzpY@@@@@c0t'                      GitHub: ............. @your-github-username                 
                      
 ```
 
