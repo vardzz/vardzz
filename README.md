@@ -1,10 +1,10 @@
-```diff
+```                                                           
                          }]p@#X)cOc1|l                                ●  ●  ●   vardz@dev — zsh
                      ]~tw$@@@@@@@@$**Ot!                              ──────────────────────────────────────────
              .      CB@@@@@@@@@@@@@@@@hrI   ."                        + $ whoami
               .    <@@@@@@@@@@@@@@@@@@kCvxI  ""     ....              vardz — full-stack dev & cloud engineer
-          ......   h@@cJX(   ^c*BB*hf        ^"    ...... .          
-          ..''.'@  @@@@@@@@X:   +1:         """"  ''.......           $ cat about.txt
+          ......   h@@cJX(   ^c*BB*hf        ^"    ...... .           ```diff
+          ..''.'@  @@@@@@@@X:   +1:         """"  ''.......           + $ cat about.txt
          .''''''I@Oc@@#!       {$p            "  "''''.......         Human-centered UI, motion design
         ..''''''Y@/@@@@@BbQi 1@@@@p'`f{      '""  "'''''.....         Studying BSCS @ University of Cabuyao
        ....'''''BJC@@@@@@@@@@@@@@@M,!jdM*hbz1+""   `''''''...         
@@ -22,5 +22,6 @@
        ...''''''''`  @@@@@@MdQX]      '    " "  '''''......           $ echo "thanks for stopping by"
       .....'''''.   @@@@@@@@*0r]}            -"   ''....              thanks for stopping by
        ...''.       @@@@@@@@@*O1            x["        .              
-     ...'           @@@@@@@@@@@bv-        x@t(             .          $ _                                
+     ...'           @@@@@@@@@@@bv-        x@t(             .          $ _
+                                                                      ```                          
 ```
