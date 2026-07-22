@@ -34,7 +34,10 @@
 <text x="28" y="612" xml:space="preserve" fill="#7d8b7f">                       @@@@@@':,"".    t@@@@@#                    </text>
 <text x="28" y="631" xml:space="preserve" fill="#7d8b7f">                       @@@@@@@ ":"     @@@@@@c                    </text>
 <text x="28" y="650" xml:space="preserve" fill="#7d8b7f">                       @@@@@@@@ ""    @@@@@@@               </text>
-<text x="638" y="118" xml:space="preserve"><tspan fill="#3a4a3a">●  ●  ●</tspan><tspan fill="#39d353">   vardz@dev — zsh</tspan></text>
+<circle cx="643" cy="113.52" r="5.5" fill="#ff5f56"/>
+<circle cx="661" cy="113.52" r="5.5" fill="#ffbd2e"/>
+<circle cx="679" cy="113.52" r="5.5" fill="#27c93f"/>
+<text x="697" y="118" xml:space="preserve" fill="#39d353">vardz@dev — zsh</text>
 <text x="638" y="137" xml:space="preserve" fill="#1f6b30">──────────────────────────────────────────</text>
 <text x="638" y="156" xml:space="preserve"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">whoami</tspan></text>
 <text x="638" y="175" xml:space="preserve" fill="#c8f0cf">vardz — full-stack dev &amp; cloud engineer</text>
