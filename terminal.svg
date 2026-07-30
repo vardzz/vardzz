@@ -25,31 +25,31 @@
 <circle cx="643" cy="37.52" r="5.5" fill="#ff5f56"/>
 <circle cx="661" cy="37.52" r="5.5" fill="#ffbd2e"/>
 <circle cx="679" cy="37.52" r="5.5" fill="#27c93f"/>
-<text x="697" y="42" xml:space="preserve" fill="#39d353">vardz@dev — zsh</text>
-<text x="638" y="61" xml:space="preserve" fill="#1f6b30">──────────────────────────────────────────</text>
-<text x="638" y="80" xml:space="preserve"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">whoami</tspan></text>
-<text x="638" y="99" xml:space="preserve" fill="#c8f0cf">vardz — fullstack dev &amp; cloud engineer</text>
-<text x="638" y="144" xml:space="preserve"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">cat about.txt</tspan></text>
-<text x="638" y="163" xml:space="preserve" fill="#c8f0cf">Human-centered UI, Minamlist Design</text>
-<text x="638" y="182" xml:space="preserve" fill="#c8f0cf">Studying BSCS @ University of Cabuyao</text>
-<text x="638" y="227" xml:space="preserve"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">cat stack.txt</tspan></text>
-<text x="638" y="246" xml:space="preserve" fill="#c8f0cf">Frontend   React, Next.js, Tailwind</text>
-<text x="638" y="265" xml:space="preserve" fill="#c8f0cf">Mobile     Flutter, Dart, React Native</text>
-<text x="638" y="284" xml:space="preserve" fill="#c8f0cf">Backend    Java, PHP, Node.js</text>
-<text x="638" y="303" xml:space="preserve" fill="#c8f0cf">Also       AWS, Cloud Computing</text>
-<text x="638" y="348" xml:space="preserve"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">cat contact.txt</tspan></text>
-<text x="638" y="367" xml:space="preserve" fill="#c8f0cf">Email      vardejericho@gmail.com</text>
-<text x="638" y="386" xml:space="preserve" fill="#c8f0cf">LinkedIn   www.linkedin.com/in/vardz</text>
-<text x="638" y="405" xml:space="preserve" fill="#c8f0cf">Website    www.vardz.dev</text>
-<text x="638" y="450" xml:space="preserve"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">cat github.txt</tspan></text>
-<text x="638" y="469" xml:space="preserve" fill="#c8f0cf">Streak         60 days (longest)</text>
-<text x="638" y="488" xml:space="preserve" fill="#c8f0cf">Languages      JavaScript, TypeScript, Dart</text>
-<text x="638" y="507" xml:space="preserve" fill="#c8f0cf">Contributions  1,353 (last year)</text>
-<text x="638" y="526" xml:space="preserve" fill="#c8f0cf">Commits        1.2k</text>
-<text x="638" y="545" xml:space="preserve" fill="#c8f0cf">PRs            29</text>
-<text x="638" y="590" xml:space="preserve"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">echo "thanks for stopping by"</tspan></text>
-<text x="638" y="609" xml:space="preserve" fill="#c8f0cf">thanks for stopping by</text>
-<text x="638" y="650" xml:space="preserve"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">_</tspan></text>
+<text x="697" y="42" xml:space="preserve" fill="#abb2bf">vardz@dev — zsh</text>
+<text x="638" y="61" xml:space="preserve" fill="#30363d">──────────────────────────────────────────</text>
+<text x="638" y="80" xml:space="preserve"><tspan fill="#56b6c2">$ </tspan><tspan fill="#98c379">whoami</tspan></text>
+<text x="638" y="99" xml:space="preserve" fill="#abb2bf">vardz — fullstack dev &amp; cloud engineer</text>
+<text x="638" y="144" xml:space="preserve"><tspan fill="#56b6c2">$ </tspan><tspan fill="#98c379">cat</tspan> <tspan fill="#d19a66">about.txt</tspan></text>
+<text x="638" y="163" xml:space="preserve" fill="#abb2bf">Human-centered UI, Minamlist Design</text>
+<text x="638" y="182" xml:space="preserve" fill="#abb2bf">Studying BSCS @ University of Cabuyao</text>
+<text x="638" y="227" xml:space="preserve"><tspan fill="#56b6c2">$ </tspan><tspan fill="#98c379">cat</tspan> <tspan fill="#d19a66">stack.txt</tspan></text>
+<text x="638" y="246" xml:space="preserve" fill="#abb2bf">Frontend   React, Next.js, Tailwind</text>
+<text x="638" y="265" xml:space="preserve" fill="#abb2bf">Mobile     Flutter, Dart, React Native</text>
+<text x="638" y="284" xml:space="preserve" fill="#abb2bf">Backend    Java, PHP, Node.js</text>
+<text x="638" y="303" xml:space="preserve" fill="#abb2bf">Also       AWS, Cloud Computing</text>
+<text x="638" y="348" xml:space="preserve"><tspan fill="#56b6c2">$ </tspan><tspan fill="#98c379">cat</tspan> <tspan fill="#d19a66">contact.txt</tspan></text>
+<text x="638" y="367" xml:space="preserve" fill="#abb2bf">Email      <tspan fill="#61afef">vardejericho@gmail.com</tspan></text>
+<text x="638" y="386" xml:space="preserve" fill="#abb2bf">LinkedIn   <tspan fill="#61afef">www.linkedin.com/in/vardz</tspan></text>
+<text x="638" y="405" xml:space="preserve" fill="#abb2bf">Website    <tspan fill="#61afef">www.vardz.dev</tspan></text>
+<text x="638" y="450" xml:space="preserve"><tspan fill="#56b6c2">$ </tspan><tspan fill="#98c379">cat</tspan> <tspan fill="#d19a66">github.txt</tspan></text>
+<text x="638" y="469" xml:space="preserve" fill="#abb2bf">Streak         60 days (longest)</text>
+<text x="638" y="488" xml:space="preserve" fill="#abb2bf">Languages      JavaScript, TypeScript, Dart</text>
+<text x="638" y="507" xml:space="preserve" fill="#abb2bf">Contributions  1,353 (last year)</text>
+<text x="638" y="526" xml:space="preserve" fill="#abb2bf">Commits        1.2k</text>
+<text x="638" y="545" xml:space="preserve" fill="#abb2bf">PRs            29</text>
+<text x="638" y="590" xml:space="preserve"><tspan fill="#56b6c2">$ </tspan><tspan fill="#98c379">echo</tspan> <tspan fill="#e5c07b">"thanks for stopping by"</tspan></text>
+<text x="638" y="609" xml:space="preserve" fill="#abb2bf">thanks for stopping by</text>
+<text x="638" y="650" xml:space="preserve"><tspan fill="#56b6c2">$ </tspan><tspan fill="#98c379">_</tspan></text>
 <text x="28" y="441" xml:space="preserve" fill="#808080">      .....'''''.   @@@@@@@@*0r]}            -"   ''....          </text>
 <text x="28" y="460" xml:space="preserve" fill="#808080">       ...''.       @@@@@@@@@*O1            x["        .          </text>
 <text x="28" y="479" xml:space="preserve" fill="#808080">     ...'           @@@@@@@@@@@bv-        x@t(             .      </text>
