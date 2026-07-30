@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1059" height="675" viewBox="0 0 1059 675">
 <rect x="0" y="0" width="1059" height="675" rx="10" fill="#0d1117"/>
-<style>text{font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size:14px;}</style>
+<style>text{font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size:14px;} a{cursor:pointer;} a:hover text{text-decoration:underline;}</style>
 <text x="28" y="42" xml:space="preserve" fill="#808080">                         }]p@#X)cOc1|l                            </text>
 <text x="28" y="61" xml:space="preserve" fill="#808080">                     ]~tw$@@@@@@@@$**Ot!                          </text>
 <text x="28" y="80" xml:space="preserve" fill="#808080">             .      CB@@@@@@@@@@@@@@@@hrI   ."                    </text>
@@ -38,9 +38,9 @@
 <text x="638" y="284" xml:space="preserve" fill="#abb2bf">Backend    Java, PHP, Node.js</text>
 <text x="638" y="303" xml:space="preserve" fill="#abb2bf">Also       AWS, Cloud Computing</text>
 <text x="638" y="348" xml:space="preserve"><tspan fill="#56b6c2">$ </tspan><tspan fill="#98c379">cat</tspan> <tspan fill="#d19a66">contact.txt</tspan></text>
-<text x="638" y="367" xml:space="preserve" fill="#abb2bf">Email      <tspan fill="#61afef">vardejericho@gmail.com</tspan></text>
-<text x="638" y="386" xml:space="preserve" fill="#abb2bf">LinkedIn   <tspan fill="#61afef">www.linkedin.com/in/vardz</tspan></text>
-<text x="638" y="405" xml:space="preserve" fill="#abb2bf">Website    <tspan fill="#61afef">www.vardz.dev</tspan></text>
+<a href="mailto:vardejericho@gmail.com" target="_blank"><text x="638" y="367" xml:space="preserve" fill="#abb2bf">Email      <tspan fill="#61afef">vardejericho@gmail.com</tspan></text></a>
+<a href="https://www.linkedin.com/in/vardz" target="_blank"><text x="638" y="386" xml:space="preserve" fill="#abb2bf">LinkedIn   <tspan fill="#61afef">www.linkedin.com/in/vardz</tspan></text></a>
+<a href="https://www.vardz.dev" target="_blank"><text x="638" y="405" xml:space="preserve" fill="#abb2bf">Website    <tspan fill="#61afef">www.vardz.dev</tspan></text></a>
 <text x="638" y="450" xml:space="preserve"><tspan fill="#56b6c2">$ </tspan><tspan fill="#98c379">cat</tspan> <tspan fill="#d19a66">github.txt</tspan></text>
 <text x="638" y="469" xml:space="preserve" fill="#abb2bf">Streak         60 days (longest)</text>
 <text x="638" y="488" xml:space="preserve" fill="#abb2bf">Languages      JavaScript, TypeScript, Dart</text>
