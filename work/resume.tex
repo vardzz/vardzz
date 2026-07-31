@@ -1,0 +1,126 @@
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+%	The MIT License (MIT)
+%
+%	Copyright (c) 2021 Jitin Nair
+%
+%	Permission is hereby granted, free of charge, to any person obtaining a copy
+%	of this software and associated documentation files (the "Software"), to deal
+%	in the Software without restriction, including without limitation the rights
+%	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%	copies of the Software, and to permit persons to whom the Software is
+%	furnished to do so, subject to the following conditions:
+%	
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+%	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+%	THE SOFTWARE.
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+
+\documentclass[a4paper,10pt]{article}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES & PAGE SETUP
+%----------------------------------------------------------------------------------------
+\usepackage{url}
+\usepackage{parskip} 	
+\RequirePackage{color}
+\RequirePackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[scale=0.88, top=1.2cm, bottom=1.2cm, left=1.5cm, right=1.5cm]{geometry}
+\usepackage{tabularx}
+\usepackage{enumitem}
+
+% centered version of 'X' col. type
+\newcolumntype{C}{>{\centering\arraybackslash}X} 
+
+%custom \section
+\usepackage{titlesec}				
+\usepackage{multicol}
+\usepackage{multirow}
+
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{5pt}{3pt}
+
+%Setup hyperref package, and colours for links
+\usepackage[unicode, draft=false]{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
+
+%for social icons
+\usepackage{fontawesome5}
+
+% Tight list environment for compact 1-page layout
+\newenvironment{compactlist}
+    {
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=2pt, label=--]
+    }
+    {
+    \end{itemize}
+    }
+
+%----------------------------------------------------------------------------------------
+%	BEGIN DOCUMENT
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+% non-numbered pages
+\pagestyle{empty} 
+
+%----------------------------------------------------------------------------------------
+%	TITLE
+%----------------------------------------------------------------------------------------
+
+\begin{tabularx}{\linewidth}{@{} C @{}}
+\Huge{Jericho Varde} \\[4pt]
+\href{https://github.com/vardzz}{\raisebox{-0.05\height}\faGithub\ vardzz} \ $|$ \ 
+\href{https://linkedin.com/in/vardz}{\raisebox{-0.05\height}\faLinkedin\ vardz} \ $|$ \ 
+\href{https://www.vardz.dev/}{\raisebox{-0.05\height}\faGlobe \ vardz.dev} \ $|$ \ 
+\href{mailto:vardejericho@gmail.com}{\raisebox{-0.05\height}\faEnvelope \ vardejericho@gmail.com} \ $|$ \ 
+\href{tel:+639154636051}{\raisebox{-0.05\height}\faMobile \ +639154636051} \\
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+\begin{compactlist}
+\item \textbf{Pamantasan ng Cabuyao | Bachelor of Science in Computer Science} (2023 -- 2027): Focused on software architecture, algorithms, and scalable web engineering systems.
+\item \textbf{Academic Excellence}: Recognized as Dean's Lister during the 1st Semester of the 2023--2024 academic year for rigorous academic performance.
+\end{compactlist}
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+\section{Experience}
+\begin{compactlist}
+\item \textbf{Flyrank Internship | Frontend AI Engineer}: Leveraged AI-assisted development workflows and modern web technologies (React, Tailwind CSS, TypeScript) to design, build, and optimize high-performance, client-ready frontend interfaces within FlyRank's organic growth and SEO automation platform.
+\item \textbf{AI-Powered Pair Programming & Prototyping}: Utilized advanced LLMs and AI coding tools as pair-programmers to rapidly scaffold, refactor, and deploy responsive web pages, storefront interfaces, and production-ready components.
+\item \textbf{DEVCON Laguna | Membership Data Analyst}: Managed data pipelines that drive community growth and event execution, tracking membership analytics, demographic trends, and event registration pipelines to optimize local engagement strategies.
+\end{compactlist}
+
+%----------------------------------------------------------------------------------------
+%	PROJECTS
+%----------------------------------------------------------------------------------------
+\section{Projects}
+\begin{compactlist}
+\item \textbf{Lunas | Frontend Lead Developer}: Spearheaded the frontend architecture for a secure, web-based emergency medical information system providing immediate access to critical health data via a unique QR code, securing 8th place nationwide at SIKAPTala 2026.
+\item \textbf{Horizon AI | Frontend Developer}: Engineered intuitive user interfaces and integration layers for a role-driven multi-agent system designed to optimize the reasoning and workflow automation of Small Language Models (SLMs).
+\item \textbf{Gridworks | Fullstack Developer}: Acted as the sole engineer and creator, owning and maintaining the entire technical infrastructure, core logic, and full-stack architecture from the ground up while utilizing AI agents to accelerate development workflows.
+\end{compactlist}
+
+%----------------------------------------------------------------------------------------
+%	ACHIEVEMENTS
+%----------------------------------------------------------------------------------------
+\section{Achievements}
+\begin{compactlist}
+\item \textbf{SIKAPTala National Hackathon Top 8 Finalist}: Secured 8th place out of nearly 100 teams nationwide in the virtual SIKAPTala 2026 Computer Science and IT Competition with the Lunas project.
+\item \textbf{Hackathon Top 12 Finalist}: Recognized among the top tier of competitive participants for technical execution and product design in major regional hackathon events.
+\end{compactlist}
+
+\vfill
+\center{\footnotesize Last updated: \today}
+
+\end{document}
