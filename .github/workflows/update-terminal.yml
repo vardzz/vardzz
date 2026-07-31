@@ -8,6 +8,8 @@ on:
 jobs:
   update-svg:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -18,6 +20,8 @@ jobs:
           node-version: "20"
 
       - name: Fetch and Update Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: node scripts/update-terminal.js
 
       - name: Commit and Push Changes
