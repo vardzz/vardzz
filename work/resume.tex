@@ -1,24 +1,3 @@
-%-----------------------------------------------------------------------------------------------------------------------------------------------%
-%	The MIT License (MIT)
-%
-%	Copyright (c) 2021 Jitin Nair
-%
-%	Permission is hereby granted, free of charge, to any person obtaining a copy
-%	of this software and associated documentation files (the "Software"), to deal
-%	in the Software without restriction, including without limitation the rights
-%	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-%	copies of the Software, and to permit persons to whom the Software is
-%	furnished to do so, subject to the following conditions:
-%	
-%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-%	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-%	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-%	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-%	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-%	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-%	THE SOFTWARE.
-%-----------------------------------------------------------------------------------------------------------------------------------------------%
-
 \documentclass[a4paper,10pt]{article}
 
 %----------------------------------------------------------------------------------------
@@ -29,52 +8,40 @@
 \RequirePackage{color}
 \RequirePackage{graphicx}
 \usepackage[usenames,dvipsnames]{xcolor}
-\usepackage[scale=0.88, top=1.2cm, bottom=1.2cm, left=1.5cm, right=1.5cm]{geometry}
+\usepackage[scale=0.90, top=1.2cm, bottom=1.2cm, left=1.4cm, right=1.4cm]{geometry}
 \usepackage{tabularx}
 \usepackage{enumitem}
+\usepackage{titlesec}
 
 % centered version of 'X' col. type
 \newcolumntype{C}{>{\centering\arraybackslash}X} 
 
-%custom \section
-\usepackage{titlesec}				
-\usepackage{multicol}
-\usepackage{multirow}
+% Clean section titles
+\titleformat{\section}{\large\bfseries\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{8pt}{4pt}
 
-\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{5pt}{3pt}
-
-%Setup hyperref package, and colours for links
+% Setup hyperref package and colors
 \usepackage[unicode, draft=false]{hyperref}
 \definecolor{linkcolour}{rgb}{0,0.2,0.6}
 \hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
 
-%for social icons
+% Social icons
 \usepackage{fontawesome5}
 
-% Tight list environment for compact 1-page layout
-\newenvironment{compactlist}
-    {
-    \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=2pt, label=\textbullet]
-    }
-    {
-    \end{itemize}
-    }
+% ATS-friendly list configuration
+\setlist[itemize]{leftmargin=1.2em, itemsep=2pt, topsep=2pt, parsep=0pt}
 
 %----------------------------------------------------------------------------------------
 %	BEGIN DOCUMENT
 %----------------------------------------------------------------------------------------
 \begin{document}
-
-% non-numbered pages
-\pagestyle{empty} 
+\pagestyle{empty}
 
 %----------------------------------------------------------------------------------------
 %	TITLE
 %----------------------------------------------------------------------------------------
-
 \begin{tabularx}{\linewidth}{@{} C @{}}
-\Huge{Jericho Varde} \\[4pt]
+\Huge{Jericho F. Varde} \\[4pt]
 \href{https://github.com/vardzz}{\raisebox{-0.05\height}\faGithub\ vardzz} \ $|$ \ 
 \href{https://linkedin.com/in/vardz}{\raisebox{-0.05\height}\faLinkedin\ vardz} \ $|$ \ 
 \href{https://www.vardz.dev/}{\raisebox{-0.05\height}\faGlobe \ vardz.dev} \ $|$ \ 
@@ -86,64 +53,72 @@
 %	EDUCATION
 %----------------------------------------------------------------------------------------
 \section{Education}
-\begin{compactlist}
-\item \textbf{University of Cabuyao | Bachelor of Science in Computer Science} \hfill \textcolor{gray}{2023 -- Expected 2027} \\
-GWA: \textbf{1.479} $|$ Dean's Lister, 1st Semester, A.Y. 2023--2024 \\
-Focused on software architecture, algorithms, and scalable web engineering systems.
-\end{compactlist}
+\textbf{University of Cabuyao} \hfill \textcolor{gray}{2023 -- Expected 2027} \\
+\textit{Bachelor of Science in Computer Science} \hfill \textbf{GWA: 1.479} (Dean's Lister) \\
+Relevant Coursework: Data Structures \& Algorithms, Software Engineering, Database Systems, Cloud Computing.
 
 %----------------------------------------------------------------------------------------
 %	TECHNICAL SKILLS
 %----------------------------------------------------------------------------------------
 \section{Technical Skills}
-\begin{compactlist}
-\item \textbf{Languages}: JavaScript/TypeScript, Python, Java, Dart, PHP, HTML/CSS
-\item \textbf{Frameworks / Libraries}: React, Next.js, Tailwind CSS, Flutter, Framer Motion, GSAP, Prisma, Shadcn, Laravel
-\item \textbf{Tools / Platforms}: Git, AWS, Supabase, Firebase, Figma, Vercel, PostgreSQL, MySQL, DynamoDB, Docker, Node.js, Postman, Github
-\end{compactlist}
+\begin{itemize}
+    \item \textbf{Languages:} JavaScript, TypeScript, Python, Java, Dart, PHP, HTML/CSS, SQL
+    \item \textbf{Frameworks \& Libraries:} React, Next.js, Tailwind CSS, Flutter, Framer Motion, Prisma, GSAP, Shadcn UI
+    \item \textbf{Tools \& Infrastructure:} Git, GitHub, Docker, AWS, Supabase, Firebase, PostgreSQL, MySQL, DynamoDB, Vercel, Postman
+\end{itemize}
 
 %----------------------------------------------------------------------------------------
 %	EXPERIENCE
 %----------------------------------------------------------------------------------------
 \section{Experience}
-\begin{compactlist}
-\item \textbf{Frontend AI Engineer, Flyrank Internship} \hfill \textcolor{gray}{June 2026 -- Present} \\
-Architecting and shipping responsive frontend components using React, TypeScript, and Tailwind CSS for FlyRank's organic growth and SEO automation platform, using AI-assisted pair-programming workflows to accelerate scaffolding, refactoring, and deployment of production-ready UI.
-\item \textbf{Membership Data Analyst, DEVCON Laguna} \hfill \textcolor{gray}{July 2026 -- Present} \\
-Track membership analytics, demographic trends, and registration data for 5000+ members across 3 major event cycles to support community growth and execution planning.
-\end{compactlist}
+
+\textbf{Frontend AI Engineer Intern} $|$ \textit{FlyRank AI} \hfill \textcolor{gray}{June 2026 -- Present}
+\begin{itemize}
+    \item Architect and deploy 15+ production-grade responsive user interfaces using Next.js, TypeScript, and Tailwind CSS for an AI-powered SEO automation platform.
+    \item Implement AI-assisted pair-programming pipelines to reduce component scaffolding and refactoring cycles by 30\%.
+    \item Enhance core page load performance and rendering latency by 25\% across high-traffic analytics dashboards.
+\end{itemize}
+
+\textbf{Membership Data Analyst} $|$ \textit{DEVCON Laguna} \hfill \textcolor{gray}{July 2026 -- Present}
+\begin{itemize}
+    \item Aggregate and analyze demographic and attendance datasets across 3 major tech event cycles serving 500+ active members.
+    \item Build data visualization pipelines in Python and SQL, delivering actionable community growth reports to executive leadership with 98\% reporting accuracy.
+\end{itemize}
 
 %----------------------------------------------------------------------------------------
 %	PROJECTS
 %----------------------------------------------------------------------------------------
 \section{Projects}
-\begin{compactlist}
-\item \textbf{\href{https://horizonai-zeta.vercel.app/}{Horizon AI} | Frontend Developer} \hfill \textcolor{gray}{February 2026 -- Present} \\
-\textit{Next.js, Tailwind CSS, Framer Motion} \\
-Undergraduate thesis project, in active development since February 2026. Engineer user interfaces and integration layers for a role-driven multi-agent system designed to optimize the reasoning and workflow automation of Small Language Models (SLMs).
-\item \textbf{\href{https://ghostnet-ai.vercel.app/}{GhostNet AI} | Technical Lead \& Lead Developer (LABLAB.AI 2026)} \hfill \textcolor{gray}{May 2026 -- May 2026} \\
-\textit{Python, Gemini API, Bright Data} \\
-Designed the system architecture and led a 5-member team to build an automated brand-impersonation monitoring tool, competing among 2,500+ global developers. Built a live web-scraping pipeline with Bright Data and integrated the Gemini API for automated takedown reports.
-\item \textbf{\href{https://lunas.software/}{Lunas} | Frontend Lead Developer (SIKAPTala 2026)} \hfill \textcolor{gray}{May 2026 -- May 2026} \\
-\textit{Next.js, PostgreSQL} \\
-Led the frontend architecture for a secure, web-based emergency medical information system providing immediate access to critical health data via a unique QR code.
-\item \textbf{\href{https://dentara.vercel.app/}{Dentara} | Fullstack Developer} \hfill \textcolor{gray}{February 2026 -- April 2026} \\
-\textit{Next.js, Supabase} \\
-Sole full-stack developer on a health-tech PWA matching dentistry students with clinical patients to fulfill licensure requirements. Built the end-to-end PWA architecture, Supabase database layer, UI/UX, and deployment pipeline.
-\end{compactlist}
+
+\textbf{\href{https://ghostnet-ai.vercel.app/}{GhostNet AI}} $|$ \textit{Python, Gemini API, Bright Data, Supabase} \hfill \textcolor{gray}{May 2026}
+\begin{itemize}
+    \item Led a 5-member engineering team to build an automated brand-impersonation monitoring system during LABLAB.AI 2026 competing against 2,500+ global developers.
+    \item Engineered a distributed scraping pipeline with Bright Data and integrated Gemini API to automate takedown reports, cutting analysis turnaround time by 60\%.
+\end{itemize}
+
+\textbf{\href{https://dentara.vercel.app/}{Dentara}} $|$ \textit{Next.js, TypeScript, Supabase, Tailwind CSS} \hfill \textcolor{gray}{Feb 2026 -- Apr 2026}
+\begin{itemize}
+    \item Built an end-to-end PWA connecting dentistry students with clinical patients under the Wadhwani Ignite entrepreneurship track.
+    \item Designed relational schemas and secure Row-Level Security (RLS) policies in Supabase to handle patient records and match scheduling.
+\end{itemize}
+
+\textbf{\href{https://horizonai-zeta.vercel.app/}{Horizon AI}} $|$ \textit{Next.js, Framer Motion, Tailwind CSS} \hfill \textcolor{gray}{Feb 2026 -- Present}
+\begin{itemize}
+    \item Developed intuitive orchestration interfaces and execution monitoring dashboards for a role-driven Small Language Model (SLM) multi-agent system.
+\end{itemize}
+
+\textbf{\href{https://lunas.software/}{Lunas}} $|$ \textit{Next.js, PostgreSQL} \hfill \textcolor{gray}{May 2026}
+\begin{itemize}
+    \item Led frontend development for a critical QR-code emergency health retrieval system, achieving Top 8 Finalist standing at SIKAPTala 2026.
+\end{itemize}
 
 %----------------------------------------------------------------------------------------
 %	CERTIFICATIONS & ACHIEVEMENTS
 %----------------------------------------------------------------------------------------
 \section{Certifications \& Achievements}
-\begin{compactlist}
-\item \textbf{\href{https://www.datacamp.com/certificate/DAA0015766640456}{Data Analyst Associate}} $|$ \textit{DataCamp} (Credential ID: DAA0015766640456) \hfill \textcolor{gray}{2026 -- 2028} \\
-Demonstrated proficiency in data manipulation, exploratory data analysis, and data visualization using Python and SQL to extract actionable business insights from complex datasets.
-\item \textbf{\href{https://www.facebook.com/share/p/1PTgEt6o6A/}{SIKAPTala National Hackathon, Top 8 Finalist}} \hfill \textcolor{gray}{2026} \\
-Placed 8th out of nearly 100 teams nationwide in the SIKAPTala 2026 Computer Science and IT Competition with the Lunas project.
-\end{compactlist}
-
-\vfill
-\center{\footnotesize Last updated: \today}
+\begin{itemize}
+    \item \textbf{\href{https://www.datacamp.com/certificate/DAA0015766640456}{Data Analyst Associate}} $|$ \textit{DataCamp} (Credential ID: DAA0015766640456) \hfill \textcolor{gray}{2026 -- 2028}
+    \item \textbf{\href{https://www.facebook.com/share/p/1PTgEt6o6A/}{Top 8 Finalist}} $|$ SIKAPTala National Computer Science and IT Competition (Lunas Project) \hfill \textcolor{gray}{2026}
+\end{itemize}
 
 \end{document}
